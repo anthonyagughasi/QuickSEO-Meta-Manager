@@ -8,7 +8,7 @@ A lightweight WordPress plugin for managing meta tags (title, description, Open 
 - Simple and lightweight  
 
 ## Installation  
-1. Download the latest release from [GitHub](your-repository-url).  
+1. Download the latest release from [GitHub](https://github.com/anthonyagughasi/QuickSEO-Meta-Manager).  
 2. Upload the ZIP file to your WordPress site (`Plugins > Add New > Upload Plugin`).  
 3. Activate the plugin from the Plugins menu.  
 
